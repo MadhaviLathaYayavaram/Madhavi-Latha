@@ -2,7 +2,7 @@
 
 ## Full Stack Developer ## 
 
-I am having a good knowledge and enthusiams in web development techniques. In search for a suitable remote working job to develop
+I am having a good knowledge and enthusiasm in web development techniques. In search for a suitable remote working job to develop
 front-end and back-end applications and have a good exposure.
 
 ###  📟  lathayvm@gmail.com   
@@ -21,13 +21,13 @@ front-end and back-end applications and have a good exposure.
 
 ### PERSONAL PROJECTS
 
-**🛒  Ecommerce Website   : Estore management for Electronic Devices Restaurant Website **
+**🛒  Ecommerce Website   : Estore management for Electronic Devices Restaurant Website**
 
-**🥡  Restaurant App      : Real-time Management of a restaurant
+**🥡  Restaurant App      : Real-time Management of a restaurant**
         
-**📙  Dictionary API      : from REST, Complete Thesaurus help
+**📙  Dictionary API      : from REST, Complete Thesaurus help**
         
-**🥘  Diet and Health App : Complete information on Diet
+**🥘  Diet and Health App : Complete information on Diet**
 
 
 ### LANGUAGES
@@ -53,25 +53,37 @@ Software Developer                          ( VST Industries Ltd. (ITC/ILTD)    
 
 
 
-CERTIFICATES
-Full Stack Developer
-GUVI Geek Networks, IITM Research Park, Chennai,Tamilnadu Diploma in Digital Marketing Certified Associates
-Program
+### CERTIFICATES
+
+**Full Stack Developer**
+
+GUVI Geek Networks, IITM Research Park, Chennai,Tamilnadu 
+
+**Diploma in Digital Marketing Certified Associates**
+
 Complete understanding of digital marketing concepts and
-applications) from SimpliLearn. Advanced Diploma in Java
+applications from SimpliLearn. 
+
+**Advanced Diploma in Java**
+
 Java Point, Hyderabad
-Advanced Post Graduate Diploma in Computer
-Applications
-Andhra Pradesh Electronics Ltd.’, Hyderabad. Post Graduate Diploma in Computer Applications
+
+**Advanced Post Graduate Diploma in Computer Applications**
+
+Andhra Pradesh Electronics Ltd. Hyderabad. 
+
+**Post Graduate Diploma in Computer Applications**
+
 Priyadarshini Institute for Computer-Aided Knowledge, Hyderabad.
-ACHIEVEMENTS
-Achievement Name
 
+### EDUCATION
 
-EDUCATION
-Study Program
-Post Graduation in Master of Arts in English
-Literature
+**Post Graduation in Master of Arts in English Literature**
+
 Nagarjuna University, Guntur.
-Bachelor of Science
+
+**Bachelor of Science**
+
 Andhra University, Visakhapatnam
+
+
