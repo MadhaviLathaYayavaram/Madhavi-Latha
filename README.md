@@ -8,7 +8,7 @@ front-end and back-end applications and have a good exposure.
 ###  📟  lathayvm@gmail.com   
 ###  📞 9425057832
 ###  📝  Indore, India        
-###  🖋   www.quartopus.com    
+###  🖋   www.quartopus.com, www.chaselivedeals.com
 ### 🔖  linkedin.com/in/madhavi-latha-yayavaram 
 
 
@@ -36,6 +36,8 @@ English,       Hindi,        Telugu
 
 
 ### WORK EXPERIENCE
+
+Web Developer
 
 Digital Marketing Associate                 ( Nexrea Inc. 06/2017 - 04/2022)
                   
