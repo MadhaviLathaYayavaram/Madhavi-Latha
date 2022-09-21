@@ -21,13 +21,17 @@ front-end and back-end applications and have a good exposure.
 
 ### PERSONAL PROJECTS
 
-**🛒  Ecommerce Website   : Estore management for Electronic Devices Restaurant Website**
+**🛒  Product Delivery App : E-Store Management and delivery of goods**
+
+**🥡  Portfolio Development : Generate online Portfolio **
 
 **🥡  Restaurant App      : Real-time Management of a restaurant**
+
+**🥡  Task Management     : Manage Personal/Professional tasks online**
         
 **📙  Dictionary API      : from REST, Complete Thesaurus help**
         
-**🥘  Diet and Health App : Complete information on Diet**
+**🥘  Movies App          : Information of Movies**
 
 
 ### LANGUAGES
@@ -37,21 +41,19 @@ English,       Hindi,        Telugu
 
 ### WORK EXPERIENCE
 
-Web Developer
+Web Developer                               ( Nexrea Inc. 2019 - 2021)                                                                                       
 
-Digital Marketing Associate                 ( Nexrea Inc. 06/2017 - 04/2022)
+Digital Marketing Associate & Internet Research Analyst   ( Qua-Gamification Inc. 2017 - 2018)                      
+                
+Content Writer - Freelancing                ( 2014 - 2017 )
                   
-Internet Research Analyst                   ( Qua-Gamification Inc. 01/2015 - 05/2017)
-                  
-Content Writer - Freelancing                ( 2003 - 2020 )
-                  
-Software Programmer                         ( Sricommed Consultancy Services Pvt. Ltd.   01/2002 - 01/2003)
+Software Programmer                         ( Sricommed Consultancy Services Pvt. Ltd.  2002 - 2003)
 
-Software Programmer                         ( DRR Info-Tech   01/1998 - 06/2001)
+Software Programmer                         ( DRR Info-Tech   1998 - 2001)
 
-Senior Faculty Member                       ( Mitra’s Institute of Information Technology   10/1994 - 11/1997)
+Senior Faculty Member                       ( Mitra’s Institute of Information Technology  1994 - 1997)
 
-Software Developer                          ( VST Industries Ltd. (ITC/ILTD)    01/1994 - 09/1994)
+Software Developer                          ( VST Industries Ltd. (ITC/ILTD)   1994 - 1994)
 
 
 
